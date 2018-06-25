@@ -1,0 +1,11 @@
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\bin\Debug\netcoreapp2.0\Blackjack-Console.deps.json
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\bin\Debug\netcoreapp2.0\Blackjack-Console.runtimeconfig.json
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\bin\Debug\netcoreapp2.0\Blackjack-Console.runtimeconfig.dev.json
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\bin\Debug\netcoreapp2.0\Blackjack-Console.dll
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\bin\Debug\netcoreapp2.0\Blackjack-Console.pdb
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.csprojResolveAssemblyReference.cache
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.csproj.CoreCompileInputs.cache
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.AssemblyInfoInputs.cache
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.AssemblyInfo.cs
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.dll
+C:\Users\Emilio\Documents\projects\Blackjack-Console\Blackjack-Console\obj\Debug\netcoreapp2.0\Blackjack-Console.pdb
